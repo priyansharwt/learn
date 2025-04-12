@@ -1,2 +1,2 @@
 
-learning about linux kernel, basics of sql and python basics
+learning about linux kernel, basics of sql and python basics in the session
